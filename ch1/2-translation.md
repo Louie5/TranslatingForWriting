@@ -3,255 +3,145 @@
 The Old Man and The Sea   
 by Ernest Hemingway    
 Part1-5  
+## Part 1
 
-这是一位老人，独自划着小舟在墨西哥港湾捕鱼，已经84天了，他一条鱼也没捕到。头40天有个男孩和他一起，但连续40天一无所获后，男孩父母告诉男孩现在老人无疑霉运当头，还是最糟糕的霉运，毫无转机。男孩听父母之命去了另一条船，第一周就抓到三条好鱼。男孩看到老人每天空船而归很伤心，总是下去帮他拿东西，要么是绳索，要么是鱼钩鱼叉和绕在桅杆上的船帆。~~船帆补着面粉袋补丁~~那帆用面粉袋补成一块块的（@余**画面感**）,~~收拢后~~卷起来（@余@张**准确**），看起来你像一面永远失败的旗帜。
-(对比第一句：**@余**：那老人独驾轻舟，在墨西哥湾暖流里捕鱼，如今出海已有84天，仍是一鱼不货。/**@张**：他是一个老头子，一个人划着一只小船在墨西哥湾大海流打鱼，二塔已经有八十四天没有捕到一条鱼了。/**@吴**:它是个独自在湾流中一条平底小帆船上钓鱼的老人，这一回已经去了八十四天，没逮上一条鱼。)
-（对比第二句：**@余**：那老头子如今不折不扣地成了晦气星，那真是最糟的厄运。/**@张**：这老头子确实一定是晦气星——那是一种最最走霉运的人/**@吴**：老人如今准是终于“倒了血霉”，这就是说，倒霉到了极点。）
+`He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.`  In the first forty days a boy had been with him. But after forty days without a fish  `the boy's parents had told him that the old man was now **definitely and finally** salao, which is the worst form of unlucky`, and the boy had gone at their orders in another boat which caught three good fish the first week.
+他是个在墨西哥湾大海流捕鱼的老人，已经连续八十四天没有捕到一条鱼了，最初四十天，一个男孩陪着他，连续四十天没有收获后，男孩的父母告诉他，这个老人绝对是塞拉了，那是倒霉到极点的意思。男孩听从了父母的话，上了另一条船，那条船在头一个星期就捕到了三条大鱼。
 
-老人面容~~瘦削~~瘦削而憔悴（**准确**），脖颈后面皱纹很深，脸颊有棕色色斑——（**流畅自然**：把破折号换成“那是”连接，没那么突兀）热带海洋反射阳光留下的良性皮肤癌。色斑顺着~~脸的侧面~~两颊（@余**简洁**）一直往下，手上有很深的伤疤，用绳索对付大鱼留下的。没有一块是新疤痕，它们老得像无鱼的沙漠被风化了一样。（**@余**：只像无鱼的沙漠里风蚀留痕一样苍老/**@张**：都是古老的，像一个没有鱼的沙漠里被风沙侵蚀的地层一样/**@吴**：它们像无鱼可打的沙漠中被侵蚀的地方一样古老。）
+It made the boy sad to see the old man  `come in`  each day with his skiff empty and he always  `went down to`  help him carry either the coiled lines or the gaff and harpoon and the sail that was furled around the mast. The sail was patched with flour sacks and, furled, it looked like the flag of permanent defeat.
+看着老人每天和空荡荡的小舟一起回来，男孩很悲伤。他总是跑下去帮他拿那一卷卷的鱼线，渔叉和用面粉袋修补过的卷起的旗帜，（carry either the coiled lines or the gaff and harpoon and the sail that was furled around the mast. The sail was patched with flour sacks and, furled）它看起来像一面永恒的失败旗帜。
 
-他的一切都很苍老，除了他的眼睛，它们有大海一样的颜色，欢快且不可打败（**@余**：活泼而坚定/**@张**：很愉快，没有战败过/**@吴**：显得喜气洋洋不服输）。
+The old man was thin and gaunt with deep wrinkles in the back of his neck. The brown blotches of the benevolent skin cancer the sun brings from its reflection on the tropic sea were on his cheeks.
+老人瘦且憔悴的脖子后面有几道深深的皱纹。它的脸颊上有热带海洋的阳光反射引起的疹子，那是良性的皮肤癌。
 
-~~他们一起爬到岸边从那里把船拉上去时~~他们一起爬上小船拖靠的岸上（@余@吴**简洁**），男孩对他说：“圣地亚哥，我又可以和你一起去了。我们已经赚了一些钱。”
+The blotches ran well down the sides of his face and his hands had the deep-creased scars from handling heavy fish on the cords. But none of these scars were fresh. They were as old as erosions in a fishless desert.
+顺着他脸颊上的这些斑点下来，他的手有几道深深的疤痕，那是他用绳子拉动大鱼留下的。没有一道疤痕是新
+的，他们老的像无鱼的荒漠。
+Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.
+除了眼睛，老人的其他部分都已经老了，他的眼睛和大海的颜色一样，闪烁着愉快和不屈的光彩。
 
-老人教过男孩捕鱼，男孩爱他。
+"Santiago,"  `the boy said to him as they climbed the bank from where the skiff was hauled up`. "I could go with you again. We've made some money."
+三蒂亚戈，他们在岸边拉船的时候，男孩说。我和你一起去，我们肯定能再赚些钱。
 
-“~~不用~~不行（@余**人物形象措辞**），”老人说。“~~你跟的是一条幸运的船~~你现在这船运气好（@张**流畅自然**），和他们一起吧。”
+The old man had taught the boy to fish and the boy loved him.
+老人教会了男孩捕鱼，男孩很爱他
 
-“但是别忘了你~~如何经历~~有一次（**流畅自然**）87天没有捕到鱼，接着又连续三周每天抓到大鱼。”
+"No," the old man said. "You're with a lucky boat. Stay with them."
+不，老人说，你在一条幸运的船上，和他们在一起吧
 
-“我记得，”老人说，“我知道你不是因为怀疑才离开的。”
+"But remember  `how you went eighty-seven days without fish`  and then we caught big ones every day for three weeks."
+但是你记得那次我们八十四天没有打到鱼，后来的三周每天都打到了大鱼吗。
 
-“是我爸爸让我离开的。我是个孩子必须服从他。”
+"I remember," the old man said. "I know you did not leave me because you doubted."
+我记得，老人说，我知道你离开我不是因为怀疑我打不到鱼了
 
-“我知道，”老人说，“这很正常。”
+"It was papa made me leave. I am a boy and I must obey him."
+我的父亲让我离开，我是它的小孩我必须尊重他
 
-“他没有多少信心。”
+"I know," the old man said. "It is quite normal." "He hasn't much faith." "No," the old man said. "But we have. Haven't we?" "Yes," the boy said. "`Can I offer you a beer on the Terrace`  and then we'll take the stuff home."
+“我知道，”老人说，"这再正常不过了。""他没有多少信心"“不”老人说“但是我们有，是吗”“是的”男孩说“我能在露台请你一杯啤酒吗？然后我们把这些东西拿进屋去。
 
-“他没有（@余**人物形象措辞**：自然了），”老人说，“但是我们有，~~不是吗~~对不对？（**准确**：与后文答语一致）？”
+"Why not?" the old man said, "`Between fishermen`."
+当然，老人说，都是渔夫嘛
 
-“对的，”男孩说，“~~你想去酒馆天台喝杯啤酒吗？~~我请你去平台喝啤酒，好不好？（**人物形象措辞**）然后我们一起把东西拿回去。”
+They sat on the Terrace and  `many of the fishermen`  made fun of the old man and he was not angry.  `Others, of the older fishermen`, looked at him and were sad. But they did not show it and they spoke politely about the current and the depths they had drifted their lines at and the steady good weather and of what they had seen.
+他们坐在阳台上，很多捕鱼人拿老人打趣，老人并不生气，另外一些年长一点的捕鱼人看到这样的情形觉得很悲伤，但是没有人表现出来，也没有人说什么。他们礼貌地谈论了当下和漂流线的深度，以及他们看到的好且稳定的天气。
 
-“好啊！”老人说，“我们两个渔夫碰一杯。（**@余**：打鱼的还用客气嘛？/**@张**：大家都是渔夫。/**@吴**：都是打鱼人嘛。）”
+## Part2
 
-他们坐在天台上。许多渔夫~~嘲笑老人~~拿老头子寻开心（**准确**），老人并不生气。~~其他年纪长一些的渔夫~~另有些年纪长一些的渔夫（@张**准确**）看着他，很悲伤。但他们没有显露出来，他们礼貌地谈着海流、他们放线的深度、稳定的好天气和他们看到的。
+`The successful fishermen of that day were already **in** and had butchered their marlin **out** and carried them laid full length across two planks, with two men staggering at the end of each plank, to the fish house where they waited for the ice truck to carry them to the market in Havana.`  Those who had caught sharks had taken them to the shark factory on the other side of the cove where they were hoisted on a block and tackle, their livers removed, their fins cut off and their hides skinned out and their flesh cut into strips for salting.
+那天捕到鱼的渔夫已经来了，他们把马林鱼剖开，放到两片整块的木板上，两个男人踉跄地抓住两块木板底部，他们要把他送往鱼屋，并在那等待装有冰块的卡车将鱼运到瓦哈那的市场上去卖。那些打到鲨鱼的人已经把鲨鱼带到海湾的另一边，他们在那里将鲨鱼用滑车吊起来，切成块，移走内脏，拿掉鱼鳍，剥去外皮，鱼肉被切成细条，供腌制之用。
 
------------------------------------------------------------------------------
+When the wind was in the east a smell came across the harbor from the shark factory; but today there was only the faint edge of the odor because the wind had  `backed into the north`  and then dropped off and it was pleasant and sunny on the Terrace.
+每当风从东边吹来的时候，都会带来海湾边鲨鱼工厂的味道。但是今天的味道很微弱，因为风已经退回了北方，慢慢停息了。露台上天气宜人。
 
-## Part 2
+"Santiago," the boy said. "Yes," the old man said. He was holding his glass and thinking of many years ago.  `"Can I go out to get sardines for you for tomorrow?"`  "No. Go and play baseball. I can still row and  `Rogelio`  will throw the net." "I would like to go. If I cannot fish with you, I would like to serve in some way."
+三蒂亚戈，男孩说，嗯，老人说。他正拿着酒杯回想他年轻的时候。明天我能替你取些沙丁鱼来吗。不，去玩玩棒球吧，我还能划船，罗杰里奥会帮我撒网的。我也想去，如果我不能和你一起捕鱼，我想要为你做一些事。
+"You bought me a beer," the old man said. "You are already a man." "How old was I when you first took me in a boat?" "Five and you nearly were killed when I brought the fish in too green and he nearly tore the boat to pieces. Can you remember?"
+帮我买罐啤酒吧。老人说，你已经是个大人了。你第一次上我船时才多大？五岁，那天我捞上来一条绿色的大鱼，它差点把船撕碎，你也差点丧命。你还记得吗
 
-当天满载而归的渔夫们早已回来，屠宰好马林鱼，平铺在并排的两条木板上，由两个人抬着每条木板的各一端，踉踉跄跄走向鱼场，等着载冰的卡车把鱼运到哈瓦那的市场。捕到鲨鱼的人已经把鱼运到海湾另一边的鲨鱼厂。鲨鱼吊在滑轮车上，~~清除肝脏，割掉鱼鳍，剥掉鱼皮，然后将肉切成条腌起来~~把肝拿掉，鳍割掉，皮剥掉，肉切成条用盐腌起来（@余@张**简洁**&**节奏**）。
+"I can remember the tail slapping and banging and the thwart breaking and the noise of the clubbing. I can remember you throwing me into the bow where the wet coiled lines were and feeling the whole boat shiver and the noise of you clubbing him like chopping a tree down and the sweet blood smell all over me."
+我记得它的尾巴东拍西拍，把船上的横梁都拍断了。也记得您拿球棒打鱼的声音，你把我推到船尾放着鱼线的地方，在那里我感觉整条船都在抖动。你敲打鱼的声音就像在砍一棵树，我能感到甜甜的血腥味包围着我。
 
-~~风从东边吹来的时候~~每有东风（@余**简洁**），~~鲨鱼厂的味道从海港那边传出来~~对湾的鲨鱼厂会飘来一股味道（**简洁**）；但今天只有一丝丝若有如无的味道，因为风已~~回到北边且减弱了~~风向已由东转北，渐渐平息了（**准确**），天台今天的天气晴朗宜人。
 
-“圣地亚哥。”男孩说。
+"Can you really remember that or did I just tell it to you?" "I remember everything from when we first went together."  `The old man looked at him with his sun-burned, confident loving eyes.`  "If you were my boy I'd take you out and gamble," he said. "But you are your father's and your mother's and you are in a lucky boat."
+你真的能记起来吗？还是我告诉你的？“打从我们第一次在一起打鱼，我就记得所有的事情”老人看着用那饱经风吹日晒的，充满坚定的爱意的眼神看着男孩。如果你是我的孩子，我一定带你出海去赌一把。但是你有爸爸和妈妈，而且你在一条幸运的船上。
+"May I get the sardines? I know where I can get four baits too." "I have mine left from today. I put them in salt in the box." "Let me get four fresh ones."
+我去拿些沙丁鱼可以吗？我还知道在哪里能拿到四个饵。今天我自己还剩了点，我撒了点盐把他们放到箱子里去了。我去弄四条新鲜的吧
 
-“嗯，”老人应道，他正举着酒杯，想起许多年前。
-
-“我出去给你弄点沙丁鱼明天用好吗？”
-
-“不用，去玩棒球吧。我还能划船，罗杰利奥会撒网。”
-
-“~~我去弄点来~~我很想去。（**误译**）如果不能和你一起捕鱼，我想尽量帮点忙。”
-
-“你给我买酒了，”老人说，“你已经是个男子汉了。”
-
-“你第一次带我上船时我多大？”
-
-“5岁，你差点~~被杀死~~送了命（**人物形象措辞**）。鱼拖上来时还很生猛（**@余**：我太早把鱼拉了上来/**@张**：那天还没到时候，我就把鱼拖上来/@吴：我把一条鲜龙活跳的鱼拖上来时），几乎把船撕成碎片。你还记得吗？”
-
-“我记得那尾巴又甩又敲、船座打破了~~和棍击的声音~~还有你用木棒打他的声音（**补充省略**）。~~我记得你把我扔到放着潮湿绕绳的船头~~我记得你把我丢到船头去，那儿堆着着湿淋淋的绳圈（**画面感**），感觉整个船都在晃，你用棍子打他的声音就像砍树一样，甜甜的血腥味遍布我全身。”
-
-“你真的记得那些还是我告诉过你？”
-
-“我记得自我们~~第一次一起~~第一次一起出去（**补充省略**）的所有事情。”
-
-老人看着他,那被太阳灼伤的眼睛自信又慈爱。（**@余**：老人用他长晒阳光、信任而爱怜的眼睛注视着他/**@张**：老人用他那日炙的、有信心的眼睛爱恋地看着他/**@吴**：老人用他常遭日晒而目光坚定的眼睛爱怜地看着他。）
-
-“如果你是我的孩子~~我会带你出去赌博~~我就带你出海去冒险（@余**误译**），”他说，“但你是你爸妈的孩子，你还跟着一条幸运的船。”
-
-“我去~~拿~~弄（**准确**）沙丁鱼了？我知道哪里可以~~拿到~~找到（**准确**）四条鱼饵。”
-
-“我自己有今天剩下的。我把它们放在盒子里腌着。”
-
-“让我去~~拿~~弄（**准确**）四条新鲜的。”
-
-“一条，”老人说。他的希望和信心从来没有消退，~~但是现在它们随着微风吹起愈发清晰了~~但是现在它们像微风渐起一样鲜活了（@吴**误译**&**准确**）。
-
-“两条，”男孩说。
-
-“两条。”老人同意了。“你不会去偷吧？”
-
-“~~我会的~~我倒想偷（**人物形象措辞**），”男孩说，“但这几条是我买的。”
-
-“谢谢你。”老人说。他是~~如此单纯不禁想着~~他如此单纯，还不会琢磨（**误译**）自己什么时候~~开始变得谦卑~~达到这样谦卑的地步（@吴**准确**）。但他知道他是谦卑的，他也知道这并不失颜面，~~而且承载着真正的自尊~~也无损他真正的自尊。（**准确**）。
-
-“看这~~风向~~潮流（**误译**），明天是个好天。”他说。
-
-“你要去哪里？”男孩问。
-
------------------------------------------------------------------------------
+"One," the old man said. His hope and his confidence had never gone. But now they were freshening as when the breeze rises. "Two," the boy said. "Two," the old man agreed. "You didn't steal them?" "I would," the boy said. "But I bought these."
+一条就够了。老人说，它的希望和自信从没有消失。但是现在他们又像清风拂过时候的样子了。男孩说，两条。两条就两条，老人答应了，你没有偷他们的吧？男孩说，我可以，但这是我买的。
+"Thank you," the old man said. He was too simple to wonder when he had attained humility. But he knew he had attained it and he knew it was not disgraceful and it carried no loss of true pride. "Tomorrow is going to be a good day with this current," he said. "Where are you going?" the boy asked.
+谢谢你，老人说
 
 ## Part 3
 
-“~~回来要很远，风向转的话~~去远海，等风转向了再回来。（**误译**）我想天亮之前出发。”
+"Far out to come in when the wind shifts. I want to be out before it is light."
+去远方，风向变了再回来，我想在天亮前就出发
+"I'll try to get him to work far out," the boy said. "Then if you hook something truly big we can come to your aid."
+我会想办法让我们的船主也往远开，男孩说，这样你真的掉到大鱼的时候，我们也能过来帮您
+"He does not like to work too far out." "No," the boy said.  `"But I will see something that he cannot see such as a bird working and get him to come out after dolphin."`  "Are his eyes that bad?" "He is almost blind." "It is strange," the old man said. "He never went turtle-ing. That is what kills the eyes."
+他不想开远的，是的，男孩说，但是我能看见一些他看不到的东西，比如飞鸟，我还会让他去打海豚，他的眼睛这么糟糕吗？他几乎瞎了，这太奇怪了，老人说，他从未打过海龟，这东西才真的伤眼睛。
+"But you went turtle-ing for years off the Mosquito Coast and your eyes are good." "I am a strange old man." "But are you strong enough now for a truly big fish?" "I think so. And there are many tricks." "Let us take the stuff home," the boy said. "So I can get the  `cast net`  and go after the sardines." They picked up the gear from the boat. The old man carried the mast on his shoulder and the boy carried the wooden box with the coiled, hard-braided brown lines, the gaff and the harpoon with its shaft.
+可是您在离开莫斯科托海岸前曾经捕了好几年海龟，为什么你的眼睛还这么好？我是个奇怪的老人，可是您现在还有力气对付真正的大鱼吗？我想我可以，我还有好多技巧呢。我们把这些东西拿进屋去吧。男孩说，这样我就能去撒网捕捉沙丁鱼了。他们从船上挑选了渔具，老人把桅杆扛在肩上，男孩抱着木盒子，里面装着一圈圈结实的棕色鱼线，还有鱼钩和带杆子的渔叉。
 
-~~“我会努力让他去远点的地方，”~~（**疑问**：需要要补充为“去远点的地方打渔”吗？）男孩说。“如果你~~钩到特别大的东西~~钓到一条真正大的（@张**流畅自然**），我们能来帮你。”
+The box with the baits was under the stern of the skiff along with the club that was used to subdue the big fish when they were brought alongside. No one would steal from the old man but it was better to take the sail and the heavy lines home as the dew was bad for them and, though he was quite sure no local people would steal from him, the old man thought that a gaff and a harpoon were needless temptations to leave in a boat. They  `walked up the road`  together to the old man's shack and  `went in through its **open** door`.
+装着鱼饵的箱子和一根棍子一起放在了小船船尾下面，这跟棍子是用来制服那些被带到船边的大鱼的。虽然没有人会偷老人的东西，但最好还是把帆和沉重的鱼线拿回家，露水对这些东西可没有好处，而且，老人虽然深信当地人不会偷他的东西，但他觉得最好还是把鱼钩和叉子拿回家，不要给人留下不必要的念想。他们一起走上那条通往老人简陋小屋的路，他们走进门，门是敞开的。
 
-“他不喜欢去太远的地方。”
+The old man leaned the mast with its wrapped sail against the wall and the boy put the box and the other gear beside it. The mast was nearly as long as the one room of the shack. The shack was made of the tough budshields of the royal palm which are called guano and in it there was a bed, a table, one chair and a place on the dirt floor to cook with charcoal.  `On the brown walls of the flattened, overlapping leaves of the sturdy fibered guano`  there was a picture in color of the Sacred Heart of Jesus and another of the Virgin of Cobre.
+老人把包裹着帆的桅杆靠在墙上，男孩把箱子和其他渔具放在桅杆旁边。桅杆和小屋的房间一样长，这棚屋是用王棕榈上被称作鸟粪的坚硬芽壳搭成的。里面有一张床，一张桌子，一把椅子和一处用木炭煮东西的地方，扁平的棕色墙壁是用坚硬的鸟粪纤维压平重叠而成的。墙上挂着一副彩色的基督圣心图和一副科博圣母图。
 
-“他不喜欢，”男孩说，“不过我可以看到他看不见的东西，比如看到一只鸟在~~飞~~盘旋（@吴**准确**&**简洁**），让他出来追~~海豚~~鲯鳅（**术语准确**：鲯鳅，Coryphaena hippurus，dolphin fish）。”
+These were relics of his wife. Once there had been a tinted photograph of his wife on the wall but he had taken it down because it made him too lonely to see it and  `it was on the shelf in the corner under his clean shirt`. "What do you have to eat?" the boy asked. "A pot of yellow rice with fish. Do you want some?" "No. I will eat at home. Do you want me to make the fire?" "No. I will make it later on. Or I may eat the rice cold." "May I take the cast net?" "Of course."
+这些是他妻子的遗物，墙上曾经还挂着一张他妻子的小相片，老人把他拿了下来，因为每当看见相片，他总会感到孤单。那张照片现在放在屋角的架子上，一件干净衬衫的下面。你想吃什么？男孩问。一罐黄米饭和鱼，你想来点吗？不了，我会在棚屋里吃。你想让我生火吗？不，之后我会自己生，或者我可以吃些冷米饭。我能拿走渔网吗。当然。
 
-"他的眼睛这么差吗？"
 
-“他几乎是瞎。”
+----------
+Part 4
 
-“那很奇怪，”老人说，“他从不钓海龟。那是伤眼睛的东西。”
+There was no cast net and the boy remembered when they had sold it. But they went through this fiction every day. There was no pot of yellow rice and fish and the boy knew this too.
+其实老人并没有渔网，男孩清楚地记得他们是何时卖掉他的。但是他们每天都要编造这样的故事。男孩也知道老人的锅里其实没有黄米饭和鱼。
 
-“但是你常年在蚊子海岸附近钓海龟，~~眼睛很好~~眼睛还是好好的（**人物形象措辞**）。”
+"Eighty-five is a lucky number," the old man said.  `"How would you like to see me bring one in that dressed out over a thousand pounds?"`
+八十五是一个幸运的数字，老人说，你有多想看到我捕回一只除掉内脏后有1000磅重的大鱼？
 
-“我是一个奇怪的老人。”
+`"I'll get the cast net and go for sardines.(沙丁鱼的作用是什么？)`  Will you sit in the sun in the doorway?" "Yes. I have yesterday's paper and I will read the baseball."
+我去拿渔网捉点沙丁鱼，您会坐在门口晒太阳吗。会的，我有一份昨天的报纸，我能读读关于棒球的那部分。
 
-“但是面对一条真正的大鱼，~~你够强壮吗~~你真有力气吗？（**人物形象措辞**）”
+The boy did not know whether yesterday's paper was a fiction too. But the old man brought it out from under the bed.
+男孩不知道是否昨天的报纸也是老人编造的故事，但是老人把他从床底下拿出来了
 
-“~~我觉得行~~我想有的（**准确**：与提问一致）。~~我有很多技巧~~再说有不少窍门呢（**准确**）。”
+"Perico gave it to me at the bodega," he explained, "I'll be back when I have the sardines. I'll keep yours and mine together on ice and we can share them in the morning. When I come back you can tell me about the baseball."
+在杂货店的时候普里克给我的，老人解释说。我捉到沙丁鱼就回来，我会保留将您那份和我的一起放在冰里，我们能在早上一起分享他。我回来的时候，兴许您能给我讲讲棒球的新闻。
+"The Yankees cannot lose." "But I fear the Indians of Cleveland." "Have faith in the Yankees my son. Think of the great DiMaggio." "I fear both the Tigers of Detroit and the Indians of Cleveland."
+洋基队不会输的，但是我有点害怕克利夫兰印第安人队会赢，对洋基队多点信心吧我的孩子，想想伟大的迪马格里奥。我害怕两个队，一个是底特律老虎队，还有一个是克利夫兰印第安人队。
 
-“我们把东西拿回去吧，”男孩说，“~~我拿上鱼网去找沙丁鱼了~~我好去拿鱼网，再去找沙丁鱼。”（**误译**）
+"Be careful or you will fear even the Reds of Cincinnati and the White Sox of Chicago." "You study it and tell me when I come back." "Do you think we should buy a terminal of the lottery with an eighty-five? Tomorrow is the eighty-fifth day." "We can do that," the boy said. "But what about the eighty-seven of your great record?" "It could not happen twice. Do you think you can find an eighty-five?" "I can order one." "One sheet. That's two dollars and a half. Who can we borrow that from?" "That's easy. I can always borrow two dollars and a half."
+小心点，不然你连西悉尼红人队和芝加哥袜子队都要害怕了。你研究一下，等我回来的时候讲给我听。我们去买张尾数是八十五的彩票怎么样？明天就是第八十五天了。我很乐意这样做，但是你那八十七天的记录怎么办？那不会发生两次的，你认为你能找到一张尾数是八十五的吗。我能像店主要一张。一张要2.5美元，我们应该向谁借？这很容易，我总是能借到2.5美元的
 
-他们从船上捡起渔具。老人~~把桅杆背到肩上~~扛着桅杆（**简洁**），<del>男孩提起木盒子，盒里装着盘绕、结实的棕绳，鱼钩，带杆的鱼叉</del>男孩拿着满箱结实的褐色绳圈，还有鱼竿和带柄的鱼叉（@余**流畅自然**）。装着鱼饵的盒子放在船尾下面，和棍子放在一起。<del>把大鱼拖到船边的时候要用棍子征服它们</del>每当把大鱼拖到船边，就用棍子制服它们。（@余**流畅自然**）没人会偷老人的东西，但最好还是把帆和粗绳带回家，暴露在露水里不好。而且老人认为把鱼钩和鱼叉留在船上是不必要的诱惑，虽然他确信村民不会偷。
+"I think perhaps I can too. But I try not to borrow. First you borrow. Then you beg." "Keep warm old man," the boy said. "Remember we are in September." "The month when the great fish come," the old man said. "Anyone can be a fisherman in May."  `"I go now for the sardines,"`  the boy said.
+我说不定也能借上，但我尽量不借，第一次借钱，接下来可就要乞讨了。开心点，老头子。男孩说，要记住我们是在十月。这个月份正是大鱼来的时候。老人说，所有人都能在五月成为渔夫。我现在要去捕沙丁鱼了，男孩说。
 
-他们沿着路一起走向老人的棚屋，进门时门正敞着（**@余**：从敞开的门进去/**@张**：门开着，他们走进去//**@吴**：从敞开的门走进去）。老人把收着帆的桅杆靠在墙上，男孩把盒子和其它渔具放在旁边。<del>桅杆几乎占据棚屋一间房的长度</del>桅杆几乎和这单间的棚屋一样长（@吴**准确**&**简洁**）。<del>棚屋的材料是坚硬的王棕budshieds，叫“海鸟粪”</del>棚屋用叫做“guano（西班牙语）”的王棕坚韧的护芽棕皮做成（@吴**流畅自然**），里面有一张床，一张桌子，一把椅子和泥土地板上一处用来烧炭的地方。<del>牢固的纤维状的海鸟粪的叶子平铺重叠,筑成棕色的墙</del>在这用纤维结实的被展平的棕叶叠盖而成的褐色墙壁上（@吴**流畅自然**），<del>墙上</del>挂着一幅彩色的耶稣圣心画像和一幅科布雷圣女画像.这些是他妻子的遗物。过去墙上挂着他妻子的浅色照片，但他拿下来了，看见照片使他感到~~孤单~~太孤单（**漏译**）。照片放在角落的架子上，压在他干净的T恤下。
+When the boy came back the old man was asleep in the chair and the sun was down. The boy took the old army blanket off the bed and spread it over the back of the chair and over the old man's shoulders.
+当男孩回来的时候，太阳已经下山了，老人已经在椅子上睡着了，男孩把老军毯从床上抽下来，搭在椅背上盖住老人的肩膀
 
-“你有什么吃的吗？”男孩问。
+They were strange shoulders, still powerful although very old, and the neck was still strong too and the creases did not show so much when the old man was asleep and his head fallen forward. His shirt had been patched so many times that it was like the sail and the patches were faded to many different shades by the sun. The old man's head was very old though and with his eyes closed there was no life in his face. The newspaper  `lay across his knees`  and  `the weight of his arm held it there in the evening breeze`. He was barefooted.
+那是一双奇怪的肩膀，虽然苍老却依然充满力量，老人的脖子依然强壮，而且，她睡着了头向前耷拉着的时候，皱纹也显得不是那么多了，它的衬衫已经补过很多次了，补丁因为褪色，变得深一块浅一块。老人的头看起来已经非常衰老了，伴随着老人闭上眼睛，老人的脸上显得毫无生气。那份报纸躺在他两腿之间，老人的双手放在报纸上，那份重量能防止报纸在傍晚的微风中被吹走。她的脚是赤裸的。
 
-“一罐黄米饭蒸鱼。你要来些吗？”
+----------
 
-“不了，我回家吃。你想让我生火吗？”
+## [](https://github.com/Louie5/TranslatingForWriting/blob/master/ch1/1-source-text.md#part-5)Part 5
 
-“不用，我待会儿自己来。或者我就着冷饭吃。”
+`The boy left him there`and when he came back the old man was still asleep. "Wake up old man," the boy said and put his hand on one of the old man's knees. The old man opened his eyes and for a moment  `he was coming back from a long way away`. Then he smiled. "What have you got?" he asked. "Supper," said the boy. "We're going to have supper." "I'm not very hungry." "Come on and eat. You can't fish and not eat.  `"I have,"`  `the old man said getting up and taking the newspaper and folding it`. Then he started to fold the blanket.
+男孩留下老人走开了，当他回来的时候老人还在睡着。老头子醒醒吧。男孩一边说一边把手搭在老人的一只膝盖上，过了一会儿，老人睁开了眼睛，过了好一会儿老人才回过神来，老人笑着问，你弄到了什么？晚餐。男孩说。我们要去吃晚饭了。我不是很饿，来吃一点吧，你不能不吃饭就去打鱼。我试过了，老人拿着报纸站了起来，顺手把它折了起来，然后老人又开始折那个毯子了。
 
-“~~我去拿鱼网了~~我把鱼网拿去了？”（**误译**）
+"Keep the blanket around you," the boy said. "You'll not fish without eating while I'm alive." "Then live a long time and take care of yourself," the old man said, "What are we eating?" "Black beans and rice, fried bananas, and some stew." The boy had brought them in a two-decker metal container from the Terrace. The two sets of knives and forks and spoons were in his pocket with a paper napkin wrapped around each set. "Who gave this to you?" "Martin. The owner." "I must thank him."
+让那个毯子包着你吧，男孩说，只要我还活着，不会让你打鱼时没东西吃的。那你可要好好照顾自己，活得长久些。老人说，我们吃什么？黑豆和米饭，煎香蕉，还有一些炖肉。男孩把这些食品盛在一个双层的金属盒子里，从露台带来。他的口袋里有两幅刀叉和勺子，每一副都用餐巾纸包着。这些是谁给你的，马丁，露台的主人，我一定要谢谢他。
 
-“去吧。”
+"I thanked him already," the boy said. "You don't need to thank him." "I'll give him the belly meat of a big fish," the old man said. "Has he done this for us more than once?" "I think so." "I must give him something  `more than the belly meat then`. He is very thoughtful for us." "He sent  `two beers`." "I like the beer in cans best." "I know. But this is in bottles, Hatuey beer, and I take back the bottles."  `"That's very kind of you,"`  the old man said. "Should we eat?"
+我已经谢过他了，男孩说，你不必再谢了。我要给他一块大鱼肚子上的肉。老人说，他这么做不止一次了吧？我想是的，那我可要给他比大鱼肚子上的肉更好些的东西了。他很替我们着想。他送了我们两份啤酒，我最喜欢罐装啤酒，我知道，但这些是在瓶子里的，哈特利啤酒，而且我还要把瓶子还回去。你真好，我们能吃了吗
 
------------------------------------------------------------------------------
+`"I've been asking you to,"`  the boy told him gently. "I have not wished to open the container until you  `were`  ready." "I'm ready now," the old man said. "I only  `needed`  time to wash." Where did you wash? The boy thought. The village water supply was two streets down the road. I must have water here for him, the boy thought, and soap and a good towel. Why am I so thoughtless? I must get him another shirt and a jacket for the winter and  `some sort of shoes`  and another blanket. "Your stew is excellent," the old man said.
+我已经问过你了，男孩温和的告诉他，我不想在你准备好之前就打开他。我已经准备好了，我只是需要时间洗洗手，你去哪里洗呢，男孩想。村里提供的水在两条马路之外，我必须给他准备点水，男孩想，还有一块肥皂和一条好毛巾，我怎么考虑的这么不仔细？等冬天来的时候，我还要给他换一件衬衫和夹克，还有一些鞋子和一块新的毛毯，你的炖肉真好吃，老人说。
+"Tell me about the baseball," the boy asked him. "In the American League it is the Yankees as I said," the old man said happily. "They lost today," the boy told him. "That means nothing.  `The great DiMaggio is himself again." ``"They have other men on the team."`  "Naturally. But he  `makes the difference`. In the other league, between Brooklyn and Philadelphia I must take Brooklyn. But then I think of Dick Sisler and those great drives in the old park." "There was nothing ever like them. He hits the longest ball I have ever seen."
+和我讲讲棒球吧，男孩央求他，正如我说的，在美国队里就数洋基队最厉害。老人高兴地说，他们今天输掉了。男孩提醒他，这算不了什么，伟大的迪马乔又成为他自己了，他们队伍里还有别人呢，那是自然，但是他让一切都变得不同了，在其他联盟里，布鲁克林和费城那组，我会选择布鲁克林，但我又想到迪克西斯乐打的一场场猛球，我再也没见过谁能向他们那样，他打出了我见过的最远的球。
 
-## Part 4
-
-没有鱼网这回事，男孩记得什么时候卖掉的，但他们每天虚构这样的桥段（**@余**：可是他们每天还要这么扮演一番/**@张**：但是他们总要这样假造着，来这么一套/**@吴**：然而他们每一天都要扯一套这种谎话）。男孩也知道没有一罐黄米饭蒸鱼。
-
-“85是个幸运数字，”老人说。“你见我带回来一条净重超过1000磅的鱼会怎样？”（**@余**：你看我能不能捉一条大鱼回来，剖干净了，超过一千磅？/**@张**：我明天要是钓到一个一千多磅重的，你乐不乐意？/**@吴**：你可想看到我逮到一条去掉了下脚有一千多磅重的鱼？）
-
-“我去拿鱼网和沙丁鱼。~~你坐在门口晒太阳吗~~你坐在门口晒太阳好吗？（**人物形象措辞**）”
-
-“嗯。我有昨天的报纸，我读读棒球的消息。”
-
-男孩不知道昨天的报纸是否也是虚构。但老人从床底下拿出了报纸。
-
-“在酒馆佩里科给我的。”他解释道。
-
-“我拿了沙丁鱼就回来。我会把你的和我的一起存在冰上，明天早上我们一起吃。我回来的时候你可以和我讲讲棒球。”
-
-“洋基队不会输。”
-
-“不过我担心克里夫兰印第安人队。”
-
-“对洋基队要有信心，我的孩子。想想伟大的迪马乔.”
-
-"底特律老虎队和克里夫兰印第安人队都我都怕。"
-
-“小心点，不然你还要怕辛辛那提红队和芝加哥白袜队。”
-
-“你研究一下，我回来时再告诉我。”
-
-“你觉得我们应该买一张末数是85的彩票吗？明天是第85天。”
-
-“我们可以买。”男孩说。“但你的87天的最高纪录怎么办？”
-
-“不可能发生两次。你觉得你能找到一个85的？”
-
-“我可以预定一张。”
-
-“一张，要2.5美元。我们能找谁借？”
-
-“简单，我总能借到2.5美元。”
-
-“我想也许我能借到。但我不打算借。一开始你借了，~~然后你得求~~讨（**误译**）。”
-
-“~~别着凉了老头~~穿暖和点（**准确**），”男孩说，“记住我们现在入9月了。”
-
-“大鱼~~来~~露面（@吴**准确**）的月份，”老人说。“任何人在5月份都能成为渔夫。”
-
-“我现在去找沙丁鱼。”男孩说。
-
-男孩回来的时候，老人坐在椅子上睡着了，太阳也下去了。男孩从床上拿下老军毯，~~盖在椅背上和老人的肩膀上~~铺在椅背上，盖着老人的肩膀（**流畅自然**）。它们是奇怪的肩膀，仍然充满力量虽然已经老了。脖子还很强壮，~~褶子在老人睡着时不是很多，头往前垂着~~老人垂头睡着时，上面的皱纹也不是很多（@余**简洁**&**准确**）。他的T恤打了好多次补丁，像船帆一样，~~补丁被太阳晒出许多不同色度~~而这些补丁被阳光晒得褪成了许多深浅不同的颜色（@吴**准确**）。老人的头其实非常老了，眼睛闭着，脸上没有生命征兆。报纸~~横在~~摊在（**准确**）他膝盖上，手臂的重量压着它，没有被徐徐的晚风吹掉（**@余**：在傍晚的微风里给它手臂压着/**@张**：他的手臂把它压牢在那里，不被晚风吹去/**@吴**：在晚风中，靠它一条胳膊压着才没被吹走）。他赤着脚。
-
------------------------------------------------------------------------------
-
-## Part 5
-
-男孩走开了随老人睡着，当他回来时老人还睡着。
-
-“醒醒老头，”男孩说着，把手放在老人的一只膝盖上。
-
-老人睁开眼睛，缓了一会儿，从很远的地方正走回来（**@余**：刹那间，他从远方清醒回来。/**@张**：在那一刹那间，他是从很远的地方回来/**@吴**：他的神志一时仿佛正在从老远的地方回来）。然后他笑了。
-
-“你带什么回来了？”他问。
-
-“晚餐。”男孩说，“我们要吃晚餐了。”
-
-“我不怎么饿。”
-
-“快来吃吧。你不能捕鱼空肚子。”
-
-“~~我不会~~我这样干过（**误译**）。”老人说着，站起来拿着报纸叠好。然后他开始叠毯子。
-
-“~~把毯子围着~~把毯子裹在身上吧（**人物形象措辞**）。”男孩说。“我活着你就不会饿肚子捕鱼。”
-
-“那活久点，照顾好你自己。”老人说，“我们吃什么？”
-
-“黑豆米饭、炸香蕉和一些炖菜。”男孩用两层金属饭盒装着饭菜，从天台拿回来（**@余**：男孩把这些食品盛在一个双层的金属盒子里，从平台上带回来/**@张**：孩子从露台酒店，把饭菜装在一个双层的金属品食盒里带了回来/**@吴**：男孩是把这些饭菜放在双层白铁饭匣里从露台饭店拿来的）。两套刀叉勺子装在口袋里，每套用纸巾包好。
-
-“谁给你这个的？”
-
-“马丁。天台的老板。”
-
-“我必须谢谢他。”
-
-“我已经谢过他，”男孩说，“你不用谢他了。”
-
-“我会给他一条大鱼肚子上的肉。”老人说，“他不止一次为我们做这些？”
-
-“我想是的。”
-
-“~~那我必须给他比鱼肚肉更多的东西~~除了鱼肚肉，我还要给他一些别的。（**流畅自然**）他对我们很体贴。”
-
-“他送了两份啤酒。”
-
-“我最喜欢灌装啤酒。”
-
-“我知道。但这次是瓶装的，哈土依啤酒，~~我把瓶子带回来了~~我得把瓶子送回去。（**误译**）”
-
-“你想得真周到。”老人说。“我们该吃饭了吗？”
-
-“我先前就问你呢。”（**@余**：我就是在问你呢/**@张**：我刚才已经在叫你吃了/**@吴**：我一直在要你吃哪）男孩轻轻地告诉他。“你准备好了我才会打开饭盒。”
-
-“我现在准备好了，”老人说，“我只是需要时间洗洗。”
-
-你在哪里洗？男孩心里想，到村子供水点要沿马路过两条街。我必须让他这里有水，男孩想，还有肥皂和一条好毛巾。我为什么这么粗心呢？我必须给他弄另外一件T恤和一件过冬的夹克衫，某种类型的鞋子一双随便什么鞋子和另外一件毛毯。（**@余**：我应该在为他弄一件衬衫、一件过冬的外套，不管什么鞋子都得弄一双，再弄条毯子。/**@张**：我得要给他另外弄件衬衫，还有一件外衣冬天穿，还要一双随便什么鞋子，和另外一条毯子。/**@吴**：我该再给他弄件衬衫，一件过冬的夹克衫，还弄双什么鞋子，再来条毯子。）
-
-“你带的炖菜好吃。”（@张**流畅自然**：你这炖菜好吃）老人说。
-
-“告诉我棒球的消息吧。”男孩问他。
-
-“在美国联盟是洋基队，我说过的。”老人高兴地说道。
-
-“他们今天输了。”男孩告诉他。
-
-“那也说明不了什么，伟大的迪马乔又是一条好汉（**@余**：重振声威了/**@张**：又恢复了往日的雄风/**@吴**：恢复他的本色了）。”
-
-“他们队有其他人。”
-
-“自然，但他最不同凡响。在其它联盟，布鲁克林队和费城队之间我必须选布鲁克林队。但我又想起迪克西斯勒和那些老公园击出的好球。”
-
-“从没人向他们那样。他击的球是我见过~~最长的~~最远的（**流畅自然**）。”
