@@ -5,24 +5,31 @@
 "Do you remember when he used to come to the Terrace? I wanted to take him fishing but I was too timid to ask him. Then I asked you to ask him and you were too timid." "I know. It was a great mistake. He might have gone with us. Then we would have that for all of our lives." "I would like to take the great DiMaggio fishing," the old man said. "They say his father was a fisherman. Maybe he was as poor as we are and would understand." "The great Sisler's father was never poor and he, the father, was playing in the Big Leagues when he was my age."
 
 你记得他以前常常来露台吗，我想带她去打鱼，但我太害羞了，不敢去问他，我让你去问他，结果你也害羞了 ，我知道，那是个大错误，他可能会和我们一起去呢，那可够我们乐一辈子的，我想要（张：很想；余：真想）带伟大的迪马乔去打鱼，老人说，他们说它的父亲是个渔夫，可能（张：也许，余：恐怕）他（以前）像我们一样穷，这样他就能理解我们（余：懂得这一套的）。伟大的西斯勒的父亲从没有穷过，他在我这个年纪的时候就已经在大联赛里打棒球（余和张都翻译成球）了。
+
 **【比对&反馈】**
 张:我很想带伟大的狄玛奇奥去打鱼。张爱玲的‘很想’和前文的“想要”相比有递进的味道。
 前文提及过的可在后面适当简略。如打棒球翻译成球
+
 **【困惑&难点】**
 Then we would have that for all of our lives.不会翻译，参考了其他版本翻译。
 
 "When I was your age I was before the mast on a square rigged ship that ran to Africa and I have seen lions on the beaches in the evening." "I know. You told me." "Should we talk about Africa or about baseball?" "Baseball I think," the boy said. "Tell me about the great John J. McGraw." He said Jota for J. "He used to come to the Terrace sometimes too in the older days. But he was rough and harsh-spoken and difficult when he was drinking. His mind was on horses as well as baseball.
 我在你这个年纪的时候，在一条专跑非洲的方形船上做水手，在傍晚，我能看见岸上的狮子，我知道，你对我讲过了。我们~~是在~~谈棒球还是~~在~~谈非洲？我想应该是棒球吧，男孩说，跟我谈谈伟大的约翰麦格劳吧，他把杰说成了杰塔。以前他~~常~~（有时也）来露台，可是他喝醉了之后很凶，说话声音很大，脾气也很差。~~他的脑子里只有棒球和马~~（他心心念念除了棒球还有赛马）。
+
 **【比对&反馈】**
 余光中把傍晚翻译成黄昏，结合张爱玲的翻译成：到黄昏我还在海岸上看见过狮子，更口语化也有意境
 段落的划分导致理解改变。如他心心念念除了棒球还有赛马，需要对应下文才好理解
+
 **【困惑&难点】**
 But he was rough and harsh-spoken and difficult
 英文基础差，对句子结构不清晰，单词只知道部分意思
 
 At least he carried lists of horses at all times in his pocket and frequently spoke the names of horses on the telephone." "He was a great manager," the boy said. "My father thinks he was the greatest." "Because he came here the most times," the old man said. "If Durocher had continued to come here each year your father would think him the greatest manager." "Who is the greatest manager, really, Luque or Mike Gonzalez?" "I think they are equal. "And the best fisherman is you." " No. I know others better."
+
 至少他~~每次来的时候~~（是一天到晚）口袋里都装着马的名单，~~每次都大声地~~（并且常常）在电话里说马的名字。他是个了不起的经理人，男孩说，我父亲认为他是最~~好的~~伟大的一个，因为他最常来这儿，如果德罗期每年都来这儿，你父亲也会认为他是最好的经理人。谁是最好的经理人来着？卢克还是麦克?我觉得他们都一样。但是你是最好的渔夫，不，我知道更好的。
+
 "Que va," the boy said. "There are many good fishermen and some great ones. But there is only you." "Thank you. You make me happy. I hope no fish will come along so great that he will prove us wrong. "There is no such fish if you are still strong as you say," "I may not be as strong as I think," the old man said. "But I know many tricks and I have resolution." "You ought to go to bed now so that you will be fresh in the morning. I will take the things back to the Terrace."
+
 哪里的话？男孩说，好的渔夫有很多，（伟大的也有几个），但最伟大的渔夫只有你一个。谢谢，~~你真让我开心~~（听你这样说我真快乐）。我希望不会有（太大的）鱼来戳穿我们的大话。~~如果你像你说的那么强壮，就不会有那样的鱼。~~（没有这样的鱼，只要你仍旧那么强健，像你说的那样。）。我可能（也许）没有我想的那么强壮，老人说，但是我知道很多技巧，我还有信心。你现在应该去睡觉了，早上才能有精神，我把东西拿回露台去。
 
 "Good night then. I will wake you in the morning." "You're my alarm clock." the boy said. "Age is my alarm clock," the old man said. "Why do old men wake so early? Is it to have one longer day?" "I don't know, the boy said. All I know is that young boys sleep late and hard." "I can remember it," the old man said. "I'll waken you in time." "I do not like for him to waken me. It is as though I were inferior." "I know." "Sleep well old man.
@@ -33,13 +40,16 @@ At least he carried lists of horses at all times in his pocket and frequently sp
 
 The boy went out. They had eaten with no light on the table and the old an took off his trousers and went to bed in the dark. He rolled his trousers up to make a pillow, putting the newspaper inside them. He rolled himself in the blanket and slept on the other old newspapers that covered the springs of the bed. He was asleep in a short time and he dreamed of Africa when he was a boy and the long golden beaches and the white beaches, so white they hurt your eyes, and the high capes and the great brown mountains.
 男孩出去了，~~他们在没有灯的桌子上吃饭~~（张：他们刚才吃饭，桌上并没有灯），老人脱掉它的长裤，在黑暗中爬上了床，它把长裤卷了卷，在里面垫了些报纸当枕头，~~他把自己裹在毯子里~~（他用毯子裹住自己），~~在床上没有报纸覆盖的地方睡着了~~（余：睡在铺着旧报纸的弹簧床上。）。~~他睡的时间很短~~（张：他很快就睡熟了），~~他梦到了在她还是个男孩的时候看见的非洲~~（梦见在少年时去过的非洲），~~金黄和白色相间的沙滩，白色是那样白，刺伤了他的眼睛~~（梦见漫长的金色海岸和白得刺眼的海岸），还有~~那高高的胛和棕色的山~~（高耸的海岬，褐色的大山）
+
 **【比对&反馈】**
 余光中翻译的更为精简。如梦见漫长的金色海岸和白得刺眼的海岸。
 
 He lived along that coast now every night and in his dreams he heard the surf roar and saw the native boats come riding through it. He smelled the tar and oakum of the deck as he slept and he smelled the smell of Africa that the land breeze brought at morning. Usually when he smelled the land breeze he woke up and dressed to go and wake the boy. But tonight the smell of the land breeze came very early and he knew it was too early in his dream and went on dreaming to see the white peaks of the Islands rising from the sea and then he dreamed of the different harbors and roadsteads of the Canary Islands.
+
 他现在每晚都~~睡~~(住)在海岸~~旁~~边，在梦里，他能听见海浪的~~声音~~(张：吼声)，、
 
 也能看见本地船只穿过这片海岸（张：看见土人的小船破浪而来），他能闻到甲板上焦油和橡木的味道（张：他睡梦中嗅到甲板上焦油和碎绳的气味），然后他闻（嗅）到每天早晨从非洲吹来的微风的味道（张：他也嗅到非洲的气味，早晨陆地上吹来的风带来的。）。
+
 **【反馈】**
 1.张和余都将本地船只译作土人的船或舟，破浪而来对比我的穿过这片海岸更具体。
 2.翻译的时候把睡梦中落掉了，嗅比闻更低频，更高级。
@@ -55,7 +65,9 @@ He lived along that coast now every night and in his dreams he heard the surf ro
 5.把different翻译成“各个”明显要比“不同”具象。
 
 He no longer dreamed of storms, nor of women, nor of great occurrences, nor of great fish, nor fights, nor contests of strength, nor of his wife. He only dreamed of places now and of the lions on the beach. They played like young cats in the dusk and he loved them as he loved the boy. He never dreamed about the boy. He simply woke, looked out the open door at the moon and unrolled his trousers and put them on. He urinated outside the shack and then went up the road to wake the boy.
+
 他不再梦见暴风雨，女人，大事，大鱼，打架，掰手腕和他的妻子（张：他现在不再梦见风暴了，也不梦见女人，也不梦见什么大事，或是大鱼，或是打架，或是角力，也不梦见他的妻。）。他现在只能梦见岸上成群结队的狮子（张：他现在只梦见各种地方，还有海滩上的狮子。），他们想年轻的小猫那样在黄昏下玩耍，他爱他们，就像他爱那男孩。她从没有梦见过男孩。老人醒了（张：他就这么醒过来了），从敞开的门里望出去是一轮月亮（张：门开着，他向门外望了望月亮）。他摊平它的长裤，把它穿在身上，走到棚屋外小便，然后他走上马路去叫醒孩子了。（张：把卷着的袴子摊开来，穿上去。他在小屋外面溺了泡尿，然后沿着路走上去叫醒那孩子。）
+
 **【反馈】**
 1.不梦见这里翻译的很精彩，可以看见张爱玲分成了四个部分，整齐且简单。
 2.He simply woke我翻译的别扭，张爱玲翻译的很好
@@ -63,47 +75,59 @@ He no longer dreamed of storms, nor of women, nor of great occurrences, nor of g
 4.之前对裤子已经有过卷曲的铺垫了，虽然原文这里没有卷曲，但是也能翻译成卷曲的裤子
 
 He was shivering with the morning cold. But he knew he would shiver himself warm and that soon he would be rowing. The door of the house where the boy lived was unlocked and he opened it and walked in quietly with his bare feet. The boy was asleep on a cot in the first room and the old man could see him clearly with the light that came in from the dying moon. He took hold of one foot gently and held it until the boy woke and turned and looked at him. The old man nodded and the boy took his trousers from the chair by the bed and, sitting on the bed, pulled them on.
+
 他在清晨的寒冷中瑟瑟发抖（张：他在清晨的寒冷中颤抖着）。但是老人知道颤抖能让自己变暖（张：但是他知道抖一会就会暖和的），那不需要太久（张：而且他不久就要划船了。 ）。男孩住的棚屋的门没关，老人打开门，用赤裸的脚轻轻的走进去（孩子住的房子，门没有上闩，他开了门，静静地走进去，赤着脚）。男孩睡在第一个房间的窄床上，老人借助快要消失的月光能清楚的看见男孩的脸（张：月亮就要落下去了，月光照进来，老人可以很清楚看见他。），他轻轻抓住男孩的一只脚，男孩醒了，转过身看着老人，老人冲他点点头，男孩从床边的椅子上拿起裤子，坐在床上穿起来。（张：他温柔地握住一只脚，一直握着它，直到那孩子醒过来，翻过身来向他望着。老人点点头，孩子就从床旁边一张椅子上把他的长袴拿下来，坐在床上把袴子套上去。）
+
 **【反馈】**
+
 1.不需要太久这里没有结合上下文，没翻译到位
 2.张爱玲的翻译能有一个柔和的铺垫
 3.（月亮就要落下去了，月光照进来，老人可以很清楚看见他。）这里的翻译和英文差异较大，但是很优美，有意境。
 
 The old man went out the door and the boy came after him. He was sleepy and the old man put his arm across his shoulders and said, "I am sorry." "Que'va," the boy said. "It is what a man must do." They walked down the road to the old man's shack and all along the road, in the dark, barefoot men were moving, carrying the masts of their boats. When they reached the old man's shack the boy took the rolls of line in the basket and the harpoon and gaff and the old man carried the mast with the furled sail on his shoulder.
 老人走出门,男孩打着哈切跟在老人后面（张：孩子跟着他出来了。他还瞌睡），老人把手臂搭（张：搁）在男孩肩膀上说，我很抱歉，不要这么说，男孩说，这是我应该做的，他们走上通往老人棚屋的马路，整条路都黑漆漆的，赤脚的人带着他们渔船上的桅杆走在马路上（他们顺着路往下走，到老人的小屋去；一路上，在黑暗中，有许多赤着脚的人在那里移动，扛着他们船上的桅杆。）。他们到达老人棚屋的时候，男孩拿起篮子里的鱼线，渔叉与鱼钩，老人依旧扛着那块卷着帆布的桅杆。
+
 **【反馈】**
+
 1.低频：用手搁在肩膀上
+
 2.（他们顺着路往下走，到老人的小屋去；一路上，在黑暗中，有许多赤着脚的人在那里移动，扛着他们船上的桅杆。）张爱玲喜欢把要点分开，不仅容易理解，也更有文气。
 
 
 ## [](https://github.com/Louie5/TranslatingForWriting/blob/master/ch2/1-source-text.md#part-8)Part 8
 
 "Do you want coffee?" the boy asked. "We'll put the gear in the boat and then get some." They had coffee from condensed milk cans at an early morning place that served fishermen. "How did you sleep old man?" the boy asked. He was waking up now although it was still hard for him to leave his sleep. "Very well, Manolin," the old man said. "I feel confident today." "So do I," the boy said. "Now I must get your sardines and mine and your fish baits. He brings our gear himself. He never wants anyone to carry anything."
+
 你想要点咖啡吗？男孩问，我们把这些东西放到船里后去喝点吧（张：我们把工具放在船上，再去喝咖啡。）。他们从浓缩的炼乳罐头里取出咖啡，那是从早晨服务渔夫的地方拿来的（张：他们到一个大清早做渔夫们生意的地方，用听头炼乳的洋铁罐喝咖啡。），你怎么总能睡得这么早，老头子？（张：「老头子你睡得怎么样？」）男孩问，虽然他已经起来了，但是依然觉得早起他对来说很困难。很好，玛洛琳，老人说，我今天很有自信。我也是，男孩说，现在我要去取你和我的沙丁鱼了，还有你的鱼饵。老人自己把渔具带来了，他从没想过要任何人帮忙（张：「现在我得去拿你同我的沙汀鱼，还有你的新鲜的饵。我们的工具他自己带来。他从来不要别人帮着拿什么。」）。
+
 **【反馈】**
 1.They had coffee from condensed milk cans at an early morning place that served fishermen.这句话没翻译正确，主要是把had理解错了。
 2.
 **【难点】**「现在我得去拿你同我的沙汀鱼，还有你的新鲜的饵。我们的工具他自己带来。他从来不要别人帮着拿什么。」这里的他是谁？
 
 "We're different," the old man said. "I let you carry things when you were five years old." "I know it," the boy said. "I'll be right back. Have another coffee. We have credit here." He walked off, bare-footed on the coral rocks, to the ice house where the baits were stored. The old man drank his coffee slowly. It was all he would have all day and he knew that he should take it. For a long time now eating had bored him and he never carried a lunch. He had a bottle of water in the bow of the skiff and that was all he needed for the day.
+
 我们不一样（张：是两样的），老人说，你（才）五岁的时候，我就让你帮我拿东西了，我知道，男孩说。我马上回来，带点咖啡（张：再喝点咖啡），我们在这儿还是有点信用的（张：我们在这里可以赊赈的。），他走开了，光秃秃的脚踩在珊瑚礁上（赤着脚踏在珊瑚石上），朝着冰屋的方向走去，那里放着鱼饵（张：走到冰房里去，饵贮藏在那里。）。老人慢慢地喝着咖啡，他这一天就吃这点东西了。老人知道自己应该吃掉它，在很长一段时间里，吃饭困扰着老人，他从不带午饭，但他的船头总有一瓶水，他知道那是他一整天需要的（张：老人慢慢地喝他的咖啡。他一天就吃这么点东西，他知道他应当吃掉它。他久已对吃喝感到厌倦了，现在他出去从来不带午饭。他有一瓶水放在船头上，除此以外他这一整天什么都不需要了。）。
+
 **【反馈】**
 1.光秃秃=赤，踩=踏
 2.“他久已对吃喝感到厌倦了”简单清晰，我的过于冗余
 3.“除此以外他这一整天什么都不需要了。”直接翻译过于别扭的话，可以试试反着翻译。
 
 The boy was back now with the sardines and the two baits wrapped in a newspaper and they went down the trail to the skiff, feeling the pebbled sand under their feet, and lifted the skiff and slid her into the water. "Good luck old man." "Good luck," the old man said. He fitted the rope lashings of the oars onto the thole pins and, leaning forward against the thrust of the blades in the water, he began to row out of the harbor in the dark.
+
 男孩现在（张：这时）带着沙丁鱼和两条鱼饵（张：报纸包着的两饵回来）回来了，鱼饵用报纸包着。他们沿着小径走向小船。。。。。。。（张：他们沿着路下去，向小船走去，他们可以觉得脚下底踏着沙，沙里嵌着石子，），祝你好运，老人说，他把桨上的绳索绑在（thole pins）桨架上，他身子向前一仰，把桨叶插到水里一划拉，就在夜色中驶出了海湾（张：把他桨上缚着的绳子套在船边的桨架上；桨在水里一戳，他的身子就向前一冲，他开始划到海港外面去了，在黑暗中。）
+
 **【反馈】**
+
 1.单一变量的时候可以拆分更加清晰，两个的话可以直接在要描写的主体上加上定语。“报纸包着的两饵回来”
 2.“把他桨上缚着的绳子套在船边的桨架上；桨在水里一戳，他的身子就向前一冲，他开始划到海港外面去了，在黑暗中。”张特别喜欢把在黑暗中提出来单独放一小句，
 
 There were other boats from the other beaches going out to sea and the old man heard the dip and push of their oars even though he could not see them now the moon was below the hills. Sometimes someone would speak in a boat. But most of the boats were silent except for the dip of the oars. They spread apart after they were out of the mouth of the harbor and each one headed for the part of the ocean where he hoped to find fish. The old man knew he was going far out and he left the smell of the land behind and rowed out into the clean early morning smell of the ocean.
 
 还有一些其他的船只从岸上出发，老人看不见他们，但老人能听到他们的桨叶撞击水花的声音，现在月亮渐渐跑到山下去了. 有时候一些人会在船上说话，但是多数船都很沉默，只有木浆打起水花的声音，他们一出海湾口就散开了，每个人都向着自己认为能找到鱼群的方向驶去。老人知道自己要去更远的地方，他把陆地的气息远远的甩在后面，把小船驶入清晨的海洋气息之中。
+
 **【反馈】**
-
-
 He saw the phosphorescence of the Gulf weed in the water as he rowed over the part of the ocean that the fishermen called the great well because there was a sudden deep of seven hundred fathoms where all sorts of fish congregated because of the swirl the current made against the steep walls of the flour of the ocean. Here there were concentrations of shrimp and baitfish and sometimes schools of squid in the deepest holes and these rose close to the surface at night where all the wandering fish fed on them.
 老人划了一会儿之后，他看见墨西哥湾海草在水中闪烁的粼光，这里的渔夫称这个地方为大井，因为这个地方突然深至七百寻，由于洋流撞在陡峭的悬崖上形成了漩涡，各种鱼类都在这里聚集。有虾米和饵料鱼，海洋最深处的洞里还有成群结队的乌贼，到了晚上，他们升上来，就被游过的鱼类吃掉了。
 
